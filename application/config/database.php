@@ -72,7 +72,7 @@ return array(
 			'host'     => '127.0.0.1',
 			'database' => 'la-haves',
 			'username' => 'root',
-			'password' => 'mar17lot',
+			'password' => '',
 			'charset'  => 'utf8',
 			'prefix'   => '',
 		),
